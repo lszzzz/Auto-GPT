@@ -18,6 +18,7 @@ log-ingestion.txt
 mem.sqlite3
 venvAutoGPT
 autogpt/workspace/
+autogpt/auto_gpt_workspace/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
